@@ -1,9 +1,7 @@
 
 ## Tech ⌘⇧
 - **HTML & CSS best practices:** Correct use of tags, elements, properties and syntax.
-- **Gitflow:**  Correct use of Branches for deployment and features development.
 - **Webpack:**  Source development for production bundling.
-- **Linters Check:** Local and Pull Request Github workflows to check for stylistic errors, bugs and syntax errors in code.
 
 # API's
 - [pokemon API](https://pokeapi.co/) for content
